@@ -1,0 +1,7 @@
+# Ignorar pastas do Cypress
+/cypress/screenshots/
+/cypress/videos/
+/cypress/fixtures/
+
+# Ignorar a pasta node_modules
+/node_modules/
